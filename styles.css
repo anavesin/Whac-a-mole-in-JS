@@ -13,5 +13,8 @@
 }
 
 .mole {
-    background-color: rgb(255, 0, 140);
+    .mole {
+    background-image: url("mole.jpg");
+    background-size: cover;
+}
 }
